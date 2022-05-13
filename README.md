@@ -1,7 +1,7 @@
 # Lunar-Code
 The official Repo of Lunar code editor
 ___
-### The next gen code editor to supercharge your workflow
+### The next gen editor to supercharge your code
 
 Just download the pre-compiled binaries or run from source
 
