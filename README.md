@@ -21,5 +21,10 @@ Just download the pre-compiled binaries or run from source
 
 * tabs system 
 * Multi language support
+
+## see it in action
+https://user-images.githubusercontent.com/95881676/168486247-b156f3f7-768b-438e-88f0-4057a3824af0.mov
 ___
+
+
 # stay tuned for release date
